@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Coding Animation">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Competitive+Programmer;Full+Stack+Developer;Building+with+LLMs+and+RAG" alt="Typing Animation" />
-</p>
+<div align="center">
 
 # 👋 Hey there, I'm **Vengidakrishna A**
+
+</div>
+
+<p align="right">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="280" alt="Boy Coding Animation">
+</p>
 
 🚀 **AI & ML Engineer | Competitive Programmer**
 
