@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Vengida Krishna A**
 
-🚀 **AI & ML Engineer | Full Stack Developer | Competitive Programmer**
+🚀 **AI & ML Engineer | Competitive Programmer**
 
 ---
 
@@ -20,10 +20,6 @@
 
 ### 🚀 Projects
 
-#### 🧠 AI-Powered Customer Support Agent  
-Intelligent ticket triage system integrating DeepSeek & RAG — improved support efficiency by 35%.  
-`FastAPI | PostgreSQL | React | LLM | RAG`
-
 #### 📖 Interactive Storytelling with AI Images  
 Created adaptive storytelling powered by **LLaMA2** & **Hugging Face Diffusers** for AI image generation.  
 `LLaMA2 | Hugging Face | FastAPI | React`
@@ -35,11 +31,37 @@ Built a React Native app for real-time SOS alerts with maps & Twilio integration
 ---
 
 ### 🧩 Tech Stack
-**Languages:** C++, Python, JavaScript  
-**Frameworks:** FastAPI, Flask, React, React Native  
-**AI/ML:** LLaMA2, DeepSeek, RAG, Diffusers, Mistral AI  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Git, Docker, VS Code, Jupyter, Hugging Face  
+
+#### 💻 Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### ⚙️ Frameworks & Libraries  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### 🧠 AI & ML  
+![LLaMA2](https://img.shields.io/badge/LLaMA2-512BD4?style=for-the-badge&logo=meta&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-007ACC?style=for-the-badge&logo=ai&logoColor=white)
+![Diffusers](https://img.shields.io/badge/Diffusers-FFAE00?style=for-the-badge&logo=python&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧰 Tools & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
